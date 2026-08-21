@@ -9,7 +9,7 @@
 ## :speech_balloon: Annoucement
 - [2026.04.20] 🚩 **News:**  The accepted version of this paper at KBS can be accessed via [MIRepNet: A Pipeline and Pre-trained Model for EEG-Based Motor Imagery Classification](https://www.sciencedirect.com/science/article/abs/pii/S0950705126006921?dgcid=coauthor).
 
-- [2026.04.07] 🚩 **News:**  This paper is accepted by **Knowledge-based Systems** (**KBS**, IF=7.6)🎉🎉🎉.
+- [2026.04.07] 🚩 **News:**  This paper is accepted by **Knowledge-based Systems** (**KBS**, IF=8.0)🎉🎉🎉.
 
 - [2025.07.29] 🚩 **News**  The manuscript of MIRepNet can be found in [MIRepNet: A Pipeline and Foundation Model for EEG-Based Motor Imagery Classification](https://dingkun0817.github.io/MIRepNet/).
 
